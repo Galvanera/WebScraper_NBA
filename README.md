@@ -14,7 +14,7 @@ Baixe o WebDriver do Chrome:
 Faça o download do ChromeDriver compatível com a versão do seu navegador Chrome.
 Adicione o caminho do ChromeDriver ao seu PATH do sistema ou coloque o executável na mesma pasta do script.
 Clone este repositório:
-git clone https://github.com/seu-usuario/web-scraper-nba.git
+git clone https://github.com/seu-usuario/webscraper_nba.git
 cd web-scraper-nba
 
 Execute o script:
